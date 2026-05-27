@@ -1,0 +1,27 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environments
+.venv/
+env/
+venv/
+ENV/
+
+# PyInstaller
+build/
+dist/
+*.spec
+
+# Local log files and config caches
+.lyrics_overlay_cache/
+.lyrics_overlay.log
+.lyrics_overlay_config.json
+*.log
+*.json
+
+# OS specific files
+.DS_Store
+Thumbs.db

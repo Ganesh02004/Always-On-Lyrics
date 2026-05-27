@@ -1,0 +1,8 @@
+PySide6>=6.4.0
+winrt-Windows.Media.Control
+winrt-Windows.Media
+winrt-Windows.Foundation
+winrt-Windows.Foundation.Collections
+winrt-Windows.Storage.Streams
+httpx>=0.24.0
+pyinstaller>=5.10.0
